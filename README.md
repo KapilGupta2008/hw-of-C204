@@ -1,1 +1,2 @@
-# hw-of-C204
+# C204-project-template
+template with assets.
